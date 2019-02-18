@@ -13,20 +13,15 @@ the project structure now :
   - colors ( default - night - notnight )
   - dimes ( default - ldpi - mdpi - hdpi - xhdpi - xxhpi - xxxhdpi )
   
- - Libraries 
+- Libraries 
  
-  - firebase messaging : 
-          -implementation 'com.google.firebase:firebase-messaging:17.3.4'
+  - firebase messaging ===> implementation 'com.google.firebase:firebase-messaging:17.3.4'
          
-  - google gson : 
-          -implementation 'com.google.code.gson:gson:2.8.5'
+  - google gson ===> implementation 'com.google.code.gson:gson:2.8.5'
           
-  - eventbus : 
-          -implementation 'org.greenrobot:eventbus:3.1.1'
+  - eventbus ===> implementation 'org.greenrobot:eventbus:3.1.1'
           
-  - butterknife : 
-           -annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
-           -implementation 'com.jakewharton:butterknife:10.0.0'
+  - butterknife ===> annotationProcessor 'com.jakewharton:butterknife-compiler:10.0.0'
+           ===> implementation 'com.jakewharton:butterknife:10.0.0'
            
-  - volley : 
-           -implementation 'com.android.volley:volley:1.1.0'
+  - volley ===> implementation 'com.android.volley:volley:1.1.0'
