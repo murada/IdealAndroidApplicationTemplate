@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fragment.android.murad.startupandroidapplication">
+    package="com.android.murad.startupandroidapplication">
 
     <application
         android:allowBackup="true"

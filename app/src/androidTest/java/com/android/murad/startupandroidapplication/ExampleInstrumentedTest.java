@@ -1,4 +1,4 @@
-package com.fragment.android.murad.startupandroidapplication;
+package com.android.murad.startupandroidapplication;
 
 import android.content.Context;
 
@@ -22,6 +22,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.fragment.android.murad.startupandroidapplication", appContext.getPackageName());
+        assertEquals("com.android.murad.startupandroidapplication", appContext.getPackageName());
     }
 }

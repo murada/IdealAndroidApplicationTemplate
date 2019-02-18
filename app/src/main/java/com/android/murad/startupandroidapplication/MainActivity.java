@@ -1,4 +1,4 @@
-package com.fragment.android.murad.startupandroidapplication;
+package com.android.murad.startupandroidapplication;
 
 import android.os.Bundle;
 
