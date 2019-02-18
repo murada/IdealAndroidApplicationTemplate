@@ -10,5 +10,5 @@ the project structure now :
 - Values
   
   - strings ( default - ar - en )
-  - colors ( default - nith - notnight )
+  - colors ( default - night - notnight )
   - dimes ( default - ldpi - mdpi - hdpi - xhdpi - xxhpi - xxxhdpi )
