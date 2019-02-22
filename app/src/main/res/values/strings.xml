@@ -1,5 +1,23 @@
 <resources>
+    <!--Default strings -->
+    <!-- used when device's local is not found in the available supported locals -->
     <string name="title_home">Home</string>
     <string name="title_dashboard">Dashboard</string>
     <string name="title_notifications">Notifications</string>
+    <string name="title_username">Username</string>
+    <string name="title_email">Email</string>
+    <string name="title_password">Password</string>
+    <string name="title_confirm_password">Confirm password</string>
+    <string name="title_login">Login</string>
+    <string name="title_logout">Logout</string>
+    <string name="title_signin">Sign In</string>
+    <string name="title_signout">Sign Out</string>
+    <string name="title_register">Register</string>
+    <string name="title_new_account">New Account</string>
+    <string name="title_remember_password">Remember my password</string>
+    <string name="title_loading">Loading..</string>
+    <string name="title_logging_in">Logging in..</string>
+    <string name="title_logging_out">Logging out..</string>
+    <string name="title_signing_in">Signing in..</string>
+    <string name="title_signing_out">Signing out..</string>
 </resources>

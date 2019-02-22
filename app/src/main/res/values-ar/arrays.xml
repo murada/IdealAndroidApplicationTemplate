@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="countries_name">
+        <item> اختر بلد </item>
+        <item> أفغانستان </item>
+        <item> ألبانيا </item>
+        <item> الجزائر </item>
+        <item> ساموا الأمريكية </item>
+        <item> أندورا </item>
+        <item> أنغولا </item>
+        <item> أنغيلا </item>
+        <item> القطب الجنوبي </item>
+        <item> أنتيغوا وباربودا </item>
+        <item> الأرجنتين </item>
+        <item> أرمينيا </item>
+        <item> أروبا </item>
+        <item> أستراليا </item>
+        <item> النمسا </item>
+        <item> أذربيجان </item>
+        <item> الباهاما </item>
+        <item> البحرين </item>
+        <item> بنغلاديش </item>
+        <item> بربادوس </item>
+        <item> روسيا البيضاء </item>
+        <item> بلجيكا </item>
+        <item> بليز </item>
+        <item> بنين </item>
+        <item> برمودا </item>
+        <item> بوتان </item>
+        <item> بوليفيا </item>
+        <item> البوسنة والهرسك </item>
+        <item> بوتسوانا </item>
+        <item> جزيرة بوفيت </item>
+        <item> البرازيل </item>
+        <item> إقليم المحيط الهندي البريطاني </item>
+        <item> جزر العذراء البريطانية </item>
+        <item> بروناي </item>
+        <item> بلغاريا </item>
+        <item> بوركينا فاسو </item>
+        <item> بوروندي </item>
+        <item> كمبوديا </item>
+        <item> الكاميرون </item>
+        <item> كندا </item>
+        <item> الرأس الأخضر </item>
+        <item> جزر كايمان </item>
+        <item> جمهورية إفريقيا الوسطى </item>
+        <item> تشاد </item>
+        <item> تشيلي </item>
+        <item> الصين </item>
+        <item> جزيرة الكريسماس </item>
+        <item>  جزر كيلينغز </item>
+        <item> كولومبيا </item>
+        <item> جزر القمر </item>
+        <item> جزر كوك </item>
+        <item> كوستاريكا </item>
+        <item> ساحل العاج </item>
+        <item> كرواتيا </item>
+        <item> كوبا </item>
+        <item> قبرص </item>
+        <item> جمهورية التشيك </item>
+        <item> جمهورية الكونغو الديمقراطية </item>
+        <item> الدنمارك </item>
+        <item> جيبوتي </item>
+        <item> دومينيكا </item>
+        <item> جمهورية الدومينيكان </item>
+        <item> تيمور الشرقية </item>
+        <item> الإكوادور </item>
+        <item> مصر </item>
+        <item> السلفادور </item>
+        <item> غينيا الاستوائية </item>
+        <item> إريتريا </item>
+        <item> إستونيا </item>
+        <item> إثيوبيا </item>
+        <item> جزر الفارو </item>
+        <item> جزر فوكلاند </item>
+        <item> فيجي </item>
+        <item> فنلندا </item>
+        <item> جمهورية مقدونيا اليوغوسلافية السابقة </item>
+        <item> فرنسا </item>
+        <item> غيانا الفرنسية </item>
+        <item> بولينيزيا الفرنسية </item>
+        <item> الأقاليم الجنوبية الفرنسية </item>
+        <item> الغابون </item>
+        <item> جورجيا </item>
+        <item> ألمانيا </item>
+        <item> غانا </item>
+        <item> جبل طارق </item>
+        <item> اليونان </item>
+        <item> غرينلاند </item>
+        <item> غرينادا </item>
+        <item> جوادلوب </item>
+        <item> غوام </item>
+        <item> غواتيمالا </item>
+        <item> غينيا </item>
+        <item> غينيا بيساو </item>
+        <item> غيانا </item>
+        <item> هايتي </item>
+        <item> جزيرة هيرد وجزر ماكدونالد </item>
+        <item> هندوراس </item>
+        <item> هونغ كونغ </item>
+        <item> المجر </item>
+        <item> أيسلندا </item>
+        <item> الهند </item>
+        <item> اندونيسيا </item>
+        <item> إيران </item>
+        <item> العراق </item>
+        <item> أيرلندا </item>
+        <item> إسرائيل </item>
+        <item> إيطاليا </item>
+        <item> جامايكا </item>
+        <item> اليابان </item>
+        <item> الأردن </item>
+        <item> كازاخستان </item>
+        <item> كينيا </item>
+        <item> كيريباس </item>
+        <item> الكويت </item>
+        <item> قيرغيزستان </item>
+        <item> لاوس </item>
+        <item> لاتفيا </item>
+        <item> لبنان </item>
+        <item> ليسوتو </item>
+        <item> ليبيريا </item>
+        <item> ليبيا </item>
+        <item> ليختنشتاين </item>
+        <item> ليتوانيا </item>
+        <item> لوكسمبورغ </item>
+        <item> ماكاو </item>
+        <item> مدغشقر </item>
+        <item> ملاوي </item>
+        <item> ماليزيا </item>
+        <item> جزر المالديف </item>
+        <item> مالي </item>
+        <item> مالطا </item>
+        <item> جزر مارشال </item>
+        <item> موريتانيا </item>
+        <item> موريشيوس </item>
+        <item> مايوت </item>
+        <item> المكسيك </item>
+        <item> ميكرونيزيا </item>
+        <item> مولدافيا </item>
+        <item> موناكو </item>
+        <item> منغوليا </item>
+        <item> الجبل الأسود </item>
+        <item> مونتسيرات </item>
+        <item> المغرب </item>
+        <item> موزامبيق </item>
+        <item> ميانمار </item>
+        <item> ناميبيا </item>
+        <item> ناورو </item>
+        <item> نيبال </item>
+        <item> هولندا </item>
+        <item> جزر الأنتيل الهولندية </item>
+        <item> كاليدونيا الجديدة </item>
+        <item> نيوزيلندا </item>
+        <item> نيكاراغوا </item>
+        <item> النيجر </item>
+        <item> نيجيريا </item>
+        <item> نيوي </item>
+        <item> كوريا الشمالية </item>
+        <item> ماريان الشمالية </item>
+        <item> النرويج </item>
+        <item> عمان </item>
+        <item> باكستان </item>
+        <item> بالاو </item>
+        <item> الأراضي الفلسطينية </item>
+        <item> بنما </item>
+        <item> بابوا غينيا الجديدة </item>
+        <item> باراغواي </item>
+        <item> بيرو </item>
+        <item> الفلبين </item>
+        <item> جزر بيتكيرن </item>
+        <item> بولندا </item>
+        <item> البرتغال </item>
+        <item> بورتوريكو </item>
+        <item> قطر </item>
+        <item> جمهورية الكونغو </item>
+        <item> ريونيون </item>
+        <item> رومانيا </item>
+        <item> روسيا </item>
+        <item> رواندا </item>
+        <item> تاو ومبر </item>
+        <item> سانت هيلينا </item>
+        <item> سانت كيتس ونيفيس </item>
+        <item> سانت لوسيا </item>
+        <item> سانت مارتن </item>
+        <item> سانت بيير وميكلون </item>
+        <item> سانت فنسنت وجزر غرينادين </item>
+        <item> ساموا </item>
+        <item> سان مارينو </item>
+        <item> ساو تومي وبرينسيب </item>
+        <item> المملكة العربية السعودية </item>
+        <item> السنغال </item>
+        <item> صربيا </item>
+        <item> سيشيل </item>
+        <item> سيراليون </item>
+        <item> سنغافورة </item>
+        <item> سلوفاكيا </item>
+        <item> سلوفينيا </item>
+        <item> جزر سليمان </item>
+        <item> الصومال </item>
+        <item> جنوب أفريقيا </item>
+        <item> جورجيا الجنوبية وجزر ساندويتش الجنوبية </item>
+        <item> كوريا الجنوبية </item>
+        <item> جنوب السودان </item>
+        <item> أسبانيا </item>
+        <item> سريلانكا </item>
+        <item> السودان </item>
+        <item> سورينام </item>
+        <item> سفالبارد وجان مايان </item>
+        <item> سوازيلاند </item>
+        <item> السويد </item>
+        <item> سويسرا </item>
+        <item> سوريا </item>
+        <item> تايوان </item>
+        <item> طاجيكستان </item>
+        <item> تنزانيا </item>
+        <item> تايلاند </item>
+        <item> غامبيا </item>
+        <item> توغو </item>
+        <item> توكيلاو </item>
+        <item> تونغا </item>
+        <item> جمهورية ترينيداد وتوباغو </item>
+        <item> تونس </item>
+        <item> تركيا </item>
+        <item> تركمانستان </item>
+        <item> جزر تركس وكايكوس </item>
+        <item> توفالو </item>
+        <item> جزر فيرجن </item>
+        <item> أوغندا </item>
+        <item> أوكرانيا </item>
+        <item> الإمارات العربية المتحدة </item>
+        <item> المملكة المتحدة </item>
+        <item> الولايات المتحدة الامريكية </item>
+        <item> أوروغواي </item>
+        <item> أوزبكستان </item>
+        <item> فانواتو </item>
+        <item> مدينة الفاتيكان </item>
+        <item> فنزويلا </item>
+        <item> فيتنام </item>
+        <item> واليس وفوتونا </item>
+        <item> الصحراء الغربية </item>
+        <item> اليمن </item>
+        <item> يوغوسلافيا </item>
+        <item> زامبيا </item>
+        <item> زيمبابوي </item>
+    </string-array>
+
+    <string-array name="countries_code">
+        <item>+</item>
+        <item>+93</item>
+        <item>+355</item>
+        <item>+213</item>
+        <item>+1684</item>
+        <item>+376</item>
+        <item>+244</item>
+        <item>+1264</item>
+        <item>+672</item>
+        <item>+1268</item>
+        <item>+54</item>
+        <item>+374</item>
+        <item>+297</item>
+        <item>+61</item>
+        <item>+43</item>
+        <item>+994</item>
+        <item>+1242</item>
+        <item>+973</item>
+        <item>+880</item>
+        <item>+1246</item>
+        <item>+375</item>
+        <item>+32</item>
+        <item>+501</item>
+        <item>+229</item>
+        <item>+1441</item>
+        <item>+975</item>
+        <item>+591</item>
+        <item>+387</item>
+        <item>+267</item>
+        <item>+47</item>
+        <item>+55</item>
+        <item>+246</item>
+        <item>+1284</item>
+        <item>+673</item>
+        <item>+359</item>
+        <item>+226</item>
+        <item>+257</item>
+        <item>+855</item>
+        <item>+237</item>
+        <item>+1</item>
+        <item>+238</item>
+        <item>+1345</item>
+        <item>+236</item>
+        <item>+235</item>
+        <item>+56</item>
+        <item>+86</item>
+        <item>+61</item>
+        <item>+61</item>
+        <item>+57</item>
+        <item>+269</item>
+        <item>+682</item>
+        <item>+506</item>
+        <item>+385</item>
+        <item>+53</item>
+        <item>+599</item>
+        <item>+357</item>
+        <item>+420</item>
+        <item>+243</item>
+        <item>+45</item>
+        <item>+253</item>
+        <item>+1767</item>
+        <item>+1809</item>
+        <item>+670</item>
+        <item>+593</item>
+        <item>+20</item>
+        <item>+503</item>
+        <item>+240</item>
+        <item>+291</item>
+        <item>+372</item>
+        <item>+251</item>
+        <item>+500</item>
+        <item>+298</item>
+        <item>+679</item>
+        <item>+358</item>
+        <item>+33</item>
+        <item>+689</item>
+        <item>+241</item>
+        <item>+220</item>
+        <item>+995</item>
+        <item>+49</item>
+        <item>+233</item>
+        <item>+350</item>
+        <item>+30</item>
+        <item>+299</item>
+        <item>+1473</item>
+        <item>+1671</item>
+        <item>+502</item>
+        <item>+441481</item>
+        <item>+224</item>
+        <item>+245</item>
+        <item>+592</item>
+        <item>+509</item>
+        <item>+504</item>
+        <item>+852</item>
+        <item>+36</item>
+        <item>+354</item>
+        <item>+91</item>
+        <item>+62</item>
+        <item>+98</item>
+        <item>+964</item>
+        <item>+53</item>
+        <item>+441624</item>
+        <item>+972</item>
+        <item>+39</item>
+        <item>+225</item>
+        <item>+1876</item>
+        <item>+81</item>
+        <item>+441534</item>
+        <item>+962</item>
+        <item>+7</item>
+        <item>+254</item>
+        <item>+686</item>
+        <item>+965</item>
+        <item>+996</item>
+        <item>+856</item>
+        <item>+371</item>
+        <item>+961</item>
+        <item>+266</item>
+        <item>+231</item>
+        <item>+218</item>
+        <item>+423</item>
+        <item>+370</item>
+        <item>+352</item>
+        <item>+853</item>
+        <item>+261</item>
+        <item>+265</item>
+        <item>+60</item>
+        <item>+960</item>
+        <item>+223</item>
+        <item>+356</item>
+        <item>+692</item>
+        <item>+222</item>
+        <item>+230</item>
+        <item>+262</item>
+        <item>+52</item>
+        <item>+691</item>
+        <item>+373</item>
+        <item>+377</item>
+        <item>+976</item>
+        <item>+382</item>
+        <item>+1664</item>
+        <item>+212</item>
+        <item>+258</item>
+        <item>+95</item>
+        <item>+264</item>
+        <item>+674</item>
+        <item>+977</item>
+        <item>+31</item>
+        <item>+599</item>
+        <item>+687</item>
+        <item>+64</item>
+        <item>+505</item>
+        <item>+227</item>
+        <item>+234</item>
+        <item>+683</item>
+        <item>+850</item>
+        <item>+1670</item>
+        <item>+47</item>
+        <item>+968</item>
+        <item>+92</item>
+        <item>+680</item>
+        <item>+970</item>
+        <item>+507</item>
+        <item>+675</item>
+        <item>+595</item>
+        <item>+51</item>
+        <item>+63</item>
+        <item>+64</item>
+        <item>+48</item>
+        <item>+351</item>
+        <item>+1787</item>
+        <item>+974</item>
+        <item>+242</item>
+        <item>+262</item>
+        <item>+40</item>
+        <item>+7</item>
+        <item>+250</item>
+        <item>+590</item>
+        <item>+290</item>
+        <item>+1869</item>
+        <item>+1758</item>
+        <item>+590</item>
+        <item>+508</item>
+        <item>+1784</item>
+        <item>+685</item>
+        <item>+378</item>
+        <item>+239</item>
+        <item>+966</item>
+        <item>+221</item>
+        <item>+381</item>
+        <item>+248</item>
+        <item>+232</item>
+        <item>+65</item>
+        <item>+1721</item>
+        <item>+421</item>
+        <item>+386</item>
+        <item>+677</item>
+        <item>+252</item>
+        <item>+27</item>
+        <item>+82</item>
+        <item>+211</item>
+        <item>+34</item>
+        <item>+94</item>
+        <item>+249</item>
+        <item>+597</item>
+        <item>+47</item>
+        <item>+268</item>
+        <item>+46</item>
+        <item>+41</item>
+        <item>+963</item>
+        <item>+886</item>
+        <item>+992</item>
+        <item>+255</item>
+        <item>+66</item>
+        <item>+220</item>
+        <item>+228</item>
+        <item>+690</item>
+        <item>+676</item>
+        <item>+1868</item>
+        <item>+216</item>
+        <item>+90</item>
+        <item>+993</item>
+        <item>+1649</item>
+        <item>+688</item>
+        <item>+1340</item>
+        <item>+256</item>
+        <item>+380</item>
+        <item>+971</item>
+        <item>+44</item>
+        <item>+1</item>
+        <item>+598</item>
+        <item>+998</item>
+        <item>+678</item>
+        <item>+379</item>
+        <item>+58</item>
+        <item>+84</item>
+        <item>+681</item>
+        <item>+212</item>
+        <item>+967</item>
+        <item>+38</item>
+        <item>+260</item>
+        <item>+263</item>
+    </string-array>
+
+</resources>

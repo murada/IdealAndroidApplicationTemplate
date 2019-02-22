@@ -1,5 +1,44 @@
 <resources>
-    <string name="title_home">Home</string>
-    <string name="title_dashboard">Dashboard</string>
-    <string name="title_notifications">Notifications</string>
+    <string name="title_home">الرئيسية</string>
+    <string name="title_dashboard">القائمة</string>
+    <string name="title_notifications">الإشعارات</string>
+    <string name="title_username">اسم المستخدم</string>
+    <string name="title_email">البريد الالكتروني</string>
+    <string name="title_password">كلمة السر</string>
+    <string name="title_confirm_password">تأكيد كلمة السر</string>
+    <string name="title_login">دخول</string>
+    <string name="title_logout">خروج</string>
+    <string name="title_signin">دخول</string>
+    <string name="title_signout">خروج</string>
+    <string name="title_register">تسجيل</string>
+    <string name="title_new_account">حساب جديد</string>
+    <string name="title_remember_password">تذكر كلمة السر</string>
+    <string name="title_loading">تحميل..</string>
+    <string name="title_logging_in">يتم الدخول..</string>
+    <string name="title_logging_out">يتم الخروج..</string>
+    <string name="title_signing_in">يتم الدخول..</string>
+    <string name="title_signing_out">يتم الخروج..</string>
+    <string name="title_help_and_support">المساعدة و الدعم</string>
+    <string name="title_contact_us">تواصل معنا</string>
+    <string name="title_settings">الإعدادات</string>
+    <string name="title_rate">تقييم</string>
+    <string name="title_ok">موافق</string>
+    <string name="title_cancel">إلغاء</string>
+    <string name="title_yes">نعم</string>
+    <string name="title_no">لا</string>
+    <string name="title_done">تم</string>
+    <string name="title_save">حفظ</string>
+    <string name="title_on">قائم</string>
+    <string name="title_off">مغلق</string>
+    <string name="title_search">بحث</string>
+    <string name="title_submit">ارسال</string>
+    <string name="title_send">ارسال</string>
+    <string name="title_sent">تم الإرسال</string>
+    <string name="title_upload">ارفع</string>
+    <string name="title_try_again">حاول مرة اخرى</string>
+    <string name="title_show">اظهار</string>
+    <string name="title_hide">اخفاء</string>
+    <string name="title_add">اضافة</string>
+    <string name="title_remove">حذف</string>
+
 </resources>
