@@ -279,17 +279,26 @@
     <color name="blue_gray_800"> #37474F</color>
     <color name="blue_gray_900"> #263238</color>
 
-    <!-- Theme Related colors -->
-    <!-- Will pick from the palette above -->
-    <color name="DraculaColorPrimary">#1D212B</color>
-    <color name="DraculaColorPrimaryDark">#111319</color>
-    <color name="DraculaColorAccent">#FA961F</color>
-    <color name="DraculaBackground">#2A2F3D</color>
-    <color name="DraculaForeground">#C1B8B2</color>
-    <color name="DraculaDividerColor">#61F2E6DE</color>
-    <color name="DraculaTextColorPrimary">#F2E6DE</color>
-    <color name="DraculaTextColorSecondary">#DEF2E6DE</color>
-    <color name="DraculaTextColorTertiary">#8AF2E6DE</color>
-    <color name="DraculaTextColorLink">#9BE7FF</color>
+
+    // gray red scheme
+
+    <color name="GrayRedPrimaryColor">#546e7a</color>
+
+    <color name="GrayRedPrimaryLightColor">#819ca9</color>
+
+    <color name="GrayRedPrimaryDarkColor">#29434e</color>
+
+    <color name="GrayRedSecondaryColor">#d50000</color>
+
+    <color name="GrayRedSecondaryLightColor">#ff5131</color>
+
+    <color name="GrayRedSecondaryDarkColor">#9b0000</color>
+
+    <color name="GrayRedPrimaryTextColor">#ffffff</color>
+
+    <color name="GrayRedSecondaryTextColor">#ffffff</color>
+
+
+
 
 </resources>
